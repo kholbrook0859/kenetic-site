@@ -1,0 +1,25 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(278 70) scale(13)">
+    <!-- light rays: three per side, staggered lengths -->
+    <g stroke="#F2A929" stroke-width="2.4" stroke-linecap="round">
+      <path d="M4.5 11.5 -6.5 8"/>
+      <path d="M3 19 -12 19"/>
+      <path d="M2 27 -5.5 30"/>
+      <path d="M31.5 11.5 42.5 8"/>
+      <path d="M33 19 48 19"/>
+      <path d="M34 27 41.5 30"/>
+    </g>
+    <!-- lighthouse -->
+    <path d="M18 4 28 13H8L18 4Z" fill="#F2A929"/>
+    <path d="M9 13h18v12H9V13Z" fill="#F2A929"/>
+    <path d="M12 16h3.5v7H12v-7Z" fill="#0B1D33"/>
+    <path d="M16.25 16h3.5v7h-3.5v-7Z" fill="#0B1D33"/>
+    <path d="M20.5 16H24v7h-3.5v-7Z" fill="#0B1D33"/>
+    <path d="M6 25h24v4H6v-4Z" fill="#F2A929"/>
+    <path d="M11 29h14l4 31H7l4-31Z" fill="#F2A929"/>
+    <path d="M11.7 37h12.6l.65 5H11.05l.65-5Z" fill="#0B1D33"/>
+    <path d="M10.4 49h15.2l.65 5H9.75l.65-5Z" fill="#0B1D33"/>
+    <path d="M15 60v-8h6v8" fill="#0B1D33"/>
+    <path d="M5 60h26v4H5v-4Z" fill="#F2A929"/>
+  </g>
+</svg>
